@@ -1,0 +1,10 @@
+/* src/styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom global styles */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
